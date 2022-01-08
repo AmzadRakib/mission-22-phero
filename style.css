@@ -1,0 +1,152 @@
+body {
+    font-family: 'Oxygen', sans-serif;
+    margin: 0;
+}
+#up-section {
+    display: flex;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+#h1-tag {
+    border-left: blue 3px solid;
+    font-size: 30px;
+    font-weight: 700;
+    padding-left: 5px;
+}
+.span-use{
+    color: #FFAD5A;
+}
+small {
+    display: block;
+    margin-top: 100px;
+    font-size: 14px;
+}
+.button-link {
+    text-decoration: none;
+    background-image: linear-gradient(#FF7051, #FF926E);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+#font-side {
+    width: 60%;
+}
+#img-side {
+    width: 40%;
+}
+#img-side img {
+    width: 80%;
+}
+#middle-section {
+    margin-top: 100px;
+    width: 100%;
+    margin-bottom: 120px;
+}
+#middle-point {
+    display: flex;
+    margin-left: 200px;
+}
+#first-box {
+    width: 310px;
+    height: 335px;
+    background-color: #EDF5F6;
+    box-shadow: 5px 5px 20px gray ;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    border-radius: 15px;
+}
+#second-box {
+    width: 310px;
+    height: 335px;
+    background-color: #FFEEEE;
+    box-shadow: 5px 5px 20px gray ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+    border-radius: 15px;
+}
+#third-box {
+    width: 220px;
+    height: 330px;
+    background-color: #FFF4D6;
+    box-shadow: 5px 5px 20px gray ;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    border-radius: 15px;
+}
+#tag-style {
+    font-size: 50px;
+    font-weight: 900;
+}
+.middle-area img {
+    width: 60%;
+}
+#middle-section h1 {
+    text-align: center;
+}
+#last-section {
+    display: flex;
+    margin-top: 150px;
+    margin-bottom: 80px;
+    margin-left: 150px;
+    background-image: url(images/shapes/shape-0.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#last-section img {
+    width: 80%;
+}
+#first-area {
+    width: 50%;
+}
+#parrent {
+    display: flex;
+    margin-left: 150px;
+}
+#about-know-left-site {
+    width: 60%;
+    padding-right: 20px;
+}
+#about-know-right-site {
+    width: 40%;
+}
+#about-know-right-site img {
+    width: 70%;
+}
+footer {
+    height: 200px;
+    background-color: black;
+}
+#footer-area {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+.display-block {
+    display: block;
+}
+#ph-apps {
+   margin: 150px 150px 100px 200px;
+}
+#ph-apps h1 {
+    text-align: center;
+}
+.apps-headline {
+    font-size: 30px;
+    font-weight: 700;
+}
+#apps-parrent {
+    display: flex;
+    margin-top: 100px;
+}
+#apps-left-side img {
+    width: 80%;
+}
