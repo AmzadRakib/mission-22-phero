@@ -91,6 +91,20 @@ small {
 #middle-section h1 {
     text-align: center;
 }
+#parrent {
+    display: flex;
+    margin-left: 150px;
+}
+#about-know-left-site {
+    width: 60%;
+    padding-right: 20px;
+}
+#about-know-right-site {
+    width: 40%;
+}
+#about-know-right-site img {
+    width: 70%;
+}
 #last-section {
     display: flex;
     margin-top: 150px;
@@ -107,20 +121,23 @@ small {
 #first-area {
     width: 50%;
 }
-#parrent {
-    display: flex;
-    margin-left: 150px;
-}
-#about-know-left-site {
-    width: 60%;
-    padding-right: 20px;
-}
-#about-know-right-site {
-    width: 40%;
-}
-#about-know-right-site img {
-    width: 70%;
-}
+#ph-apps {
+    margin: 150px 150px 100px 200px;
+ }
+ #ph-apps h1 {
+     text-align: center;
+ }
+ .apps-headline {
+     font-size: 30px;
+     font-weight: 700;
+ }
+ #apps-parrent {
+     display: flex;
+     margin-top: 100px;
+ }
+ #apps-left-side img {
+     width: 80%;
+ }
 footer {
     height: 200px;
     background-color: black;
@@ -132,21 +149,4 @@ footer {
 }
 .display-block {
     display: block;
-}
-#ph-apps {
-   margin: 150px 150px 100px 200px;
-}
-#ph-apps h1 {
-    text-align: center;
-}
-.apps-headline {
-    font-size: 30px;
-    font-weight: 700;
-}
-#apps-parrent {
-    display: flex;
-    margin-top: 100px;
-}
-#apps-left-side img {
-    width: 80%;
 }
